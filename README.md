@@ -1,7 +1,7 @@
 My Description
 ===========
 
-I modify a little bit to make this cookbook work with OpsWorks. However, since it is 
+I modify a little bit to make this cookbook work with OpsWorks(11.4). However, since it is 
 a part of our company's whole OpsWorks cookbook system, I didn't test it standalone.
 
 The custom json I used in OpsWork is as follows:
